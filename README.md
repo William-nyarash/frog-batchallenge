@@ -15,6 +15,8 @@ The game is ment to provide users an entry point on working with unity game engi
 
 ## Game Demo 
 
+[![Game Demo](./Assets/media/gamedemo.gif)](./Assets/media/gameDemo.mp4)
+
 <video src="./Assets/media/gameDemo.mp4" controls ></video>
 
 
