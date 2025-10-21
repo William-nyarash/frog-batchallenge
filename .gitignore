@@ -1,0 +1,58 @@
+# Ignore Unity generated folders
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+
+# Ignore build folders if any
+/Build/
+/Builds/
+
+# Ignore Visual Studio and IDE files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore Unity cache and other auto-generated files
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+
+# Ignore crash reports and debug info
+sysinfo.txt
+mono_crash.*
+
+# Ignore Unity package files
+*.unitypackage
+*.unitypackage.meta
+
+# Ignore Rider/JetBrains files (if applicable)
+/.vs/
+/.gradle/
+/.idea/
+/*.DotSettings.user
+
+# Ignore other temporary or backup files
+*.tmp
+*.bak
+*.old
+*.orig
+*.blend1
+*.blend1.meta
+
